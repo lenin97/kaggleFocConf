@@ -17,7 +17,7 @@
     "path_safety_checker": "/kaggle/working/Fooocus/models/safety_checker",
     "path_sam": "/kaggle/working/Fooocus/models/sam",
     "path_outputs": "/kaggle/working/outFoc",
-	"available_aspect_ratios": [
+    "available_aspect_ratios": [
     "704*1408",
     "704*1344",
     "768*1344",

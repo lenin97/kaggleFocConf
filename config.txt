@@ -49,5 +49,5 @@
     "1080*1080",
     "1080*1350"
     ],
-    "default_aspect_ratio": "1080*1350"
+    "default_aspect_ratio": "1024*1024"
 }
